@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+This project is for us to search Github accounts and get some information about the account. Github Api and a new programming approach in React were used for the project.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
